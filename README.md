@@ -1,10 +1,10 @@
-#Installation
+# Installation
 
 ```
 yarn add inline-connect
 ```
 
-#Example
+# Example
 
 ```javascript
 const App = () => {
