@@ -12,10 +12,7 @@
   },
   "keywords": [
     "redux",
-    "react",
-    "devtool",
-    "dev-tool",
-    "dependency graph"
+    "react"
   ],
   "author": "Cameron Nokes",
   "license": "MIT",
@@ -27,8 +24,8 @@
     "worker-loader": "^2.0.0"
   },
   "peerDependencies": {
-    "react-redux": "^7.0.0",
-    "react": "^16.8.0"
+    "react-redux": ">=2",
+    "react": ">=15"
   },
   "dependencies": {}
 }
