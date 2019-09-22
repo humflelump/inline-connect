@@ -1,0 +1,34 @@
+{
+  "name": "inline-connect",
+  "version": "0.0.1",
+  "description": "Connect your components inline.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/humflelump/inline-connect",
+  "scripts": {
+    "start": "tsc --watch",
+    "build": "tsc",
+    "prepublish": "tsc"
+  },
+  "keywords": [
+    "redux",
+    "react",
+    "devtool",
+    "dev-tool",
+    "dependency graph"
+  ],
+  "author": "Cameron Nokes",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "16.8.0",
+    "react-redux": "^7.0.0",
+    "^react": "16.8.0",
+    "typescript": "2.9",
+    "worker-loader": "^2.0.0"
+  },
+  "peerDependencies": {
+    "react-redux": "^7.0.0",
+    "react": "^16.8.0"
+  },
+  "dependencies": {}
+}
