@@ -19,7 +19,7 @@
   "devDependencies": {
     "@types/react": "16.8.0",
     "react-redux": "^7.0.0",
-    "^react": "16.8.0",
+    "react": "16.8.0",
     "typescript": "2.9",
     "worker-loader": "^2.0.0"
   },
